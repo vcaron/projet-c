@@ -24,7 +24,7 @@ while(1)
 if (resultat < 20)
 printf("KO inferieur ou egale a 20");
 else if (resultat >= 20)
-printf("OK superieur ou egale a 20");
+printf("OK %d superieur ou egale a 20", resultat);
 printf("\n\n");
 
 

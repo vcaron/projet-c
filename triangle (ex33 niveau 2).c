@@ -21,7 +21,7 @@ printf(" ");
 
 for(z=0;z<=x;z++)
 {
-printf("*");
+printf("* ");
 }
 printf("\n");
 
